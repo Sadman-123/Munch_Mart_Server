@@ -21,6 +21,10 @@ var lst = [
   ];
   var popular_shop_list = [
     {
+      "shop_pic": "https://businesspostbd.com/files/media/daily-media/2021/09/16/21.jpg",
+      "deal": "5"
+    },
+    {
       "shop_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn4ZKvNJsQKNAd23vsjNaVxq-D_o77F8ru8Q&s",
       "deal": "1"
     },
