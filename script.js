@@ -43,6 +43,13 @@ var lst = [
   ];
   var prev_orders=[
     {
+      "prev_order_item":"Pasta",
+      "prev_order_pic":"https://images.deliveryhero.io/image/fd-bd/LH/s6ow-hero.jpg?width=512&height=384&quality=45",
+      "prev_order_review":"5.9 (12000+)",
+      "prev_order_loc":"Mirpur 2",
+      "prev_order_delivery_charge":"Delivery 19 Tk"
+    },
+    {
       "prev_order_item":"Biriyani",
       "prev_order_pic":"https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2021/03/19/biriyani.jpg",
       "prev_order_review":"4.4 (9000+)",
