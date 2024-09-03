@@ -53,6 +53,13 @@ var lst = [
       "prev_order_delivery_charge":"Delivery 54 Tk"
     },
     {
+      "prev_order_item":"Pizza",
+      "prev_order_pic":"https://www.foodandwine.com/thmb/Wd4lBRZz3X_8qBr69UOu2m7I2iw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/classic-cheese-pizza-FT-RECIPE0422-31a2c938fc2546c9a07b7011658cfd05.jpg",
+      "prev_order_review":"5.0 (121+)",
+      "prev_order_loc":"Mirpur 10",
+      "prev_order_delivery_charge":"Delivery 19 Tk"
+    },
+    {
       "prev_order_item":"Khichuri",
       "prev_order_pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNLvRoMD-ztoTL3BQoHX2ZX72mL8wbXQ40-Q&s",
       "prev_order_review":"5.5 (1400+)",
