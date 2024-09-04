@@ -42,6 +42,13 @@ var lst = [
     },
   ];
   var prev_orders=[
+{
+      "prev_order_item":"Sandwich",
+      "prev_order_pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-94PYRrAAwvbG7RJLM8YLZ5139GEhcgidULRXBzP0zf9QOZCdhzujP_vR&s=10",
+      "prev_order_review":"4.9 (100+)",
+      "prev_order_loc":"Mirpur 10",
+      "prev_order_delivery_charge":"Delivery 10 Tk"
+    },
     {
       "prev_order_item":"Pasta",
       "prev_order_pic":"https://images.deliveryhero.io/image/fd-bd/LH/s6ow-hero.jpg?width=512&height=384&quality=45",
