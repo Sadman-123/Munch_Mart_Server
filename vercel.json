@@ -1,15 +1,23 @@
 {
-    "version":2,
-    "builds":[
+    "version": 2,
+    "builds": [
         {
-            "src":"./script.js",
-            "use":"@vercel/node"
+            "src": "script.js",
+            "use": "@vercel/node"
         }
     ],
-    "routes":[
+    "routes": [
         {
-            "src":"/(.*)",
-            "dest":"/"
+            "src": "/menu",
+            "dest": "/script.js"
+        },
+        {
+            "src": "/popular_shop_list",
+            "dest": "/script.js"
+        },
+        {
+            "src": "/prev_orders",
+            "dest": "/script.js"
         }
     ]
 }
