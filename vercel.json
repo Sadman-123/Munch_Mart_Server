@@ -4,7 +4,6 @@
         {
             "src":"./script.js",
             "use":"@vercel/node"
-
         }
     ],
     "routes":[
