@@ -107,6 +107,9 @@ var lst = [
       "prev_order_delivery_charge":"Delivery 19 Tk"
     },
   ];
+app.get('/',(req,res)=>{
+  res.send("Welcome to Munchmart API")
+});
 app.get('/menu',(req,res)=>{
     res.json(lst);
 });
